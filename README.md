@@ -6,11 +6,6 @@ Currently studying at Higher School of Economics, Faculcy of Computer Science, B
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/teddyzxcv)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/teddyzxcv)
 
-- 🔭 I’m currently working on **Assault of fortress**
-
-<p align="center">
-  <img src="IMG_3361.PNG" width="350" title="hover text">
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
