@@ -2,6 +2,18 @@
 <h3 align="center">I am 20 y.o. Software Engineer from Moscow.
 Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.</h3>
 
+## Experience
+
+### Ozon Tech | C# Internship (Logistics Giveout Team) 2022 - 2023
+During my time as a C# Intern at Ozon Tech, I had the opportunity to work with a team developing services for sorting centers and central logistics. My responsibilities included:
+
+Developing functionality in C# using ASP.Net Core, Postgresql, and PromQL.
+Implementation and testing of new features, conducting code reviews, and handling technical support requests for logistics services.
+Effectively communicating with team members to ensure project requirements are met on time and within specified constraints.
+Working in a team environment taught me the importance of effective communication, collaboration, and problem-solving skills. I learned how to work with a diverse group of people and how to manage my time effectively to meet deadlines.
+
+Overall, my internship at Ozon Tech was an invaluable learning experience that allowed me to gain hands-on experience in software development and sharpen my technical and interpersonal skills.
+
 #### Contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/teddyzxcv)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/teddyzxcv)
