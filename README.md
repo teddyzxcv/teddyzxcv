@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pan</h1>
-<h3 align="center">I am 21 y.o. Software Engineer from Moscow.
+<h3 align="center">I am 22 y.o. Software Engineer from Moscow.
 Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.</h3>
 
 ## Experience
