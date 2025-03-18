@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pan</h1>
-<h3 align="center">I am 22 y.o. Software Engineer from Moscow.
-Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.</h3>
+<h3 align="center">I am 23 y.o. Software Engineer from China
+Currently studying at Higher School of Economics, Faculcy of Computer Science, Master’s Programme System Software Engineering.</h3>
 
 ## Experience
 
