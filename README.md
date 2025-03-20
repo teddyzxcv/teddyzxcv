@@ -21,7 +21,9 @@ Streamlined project management by employing effective task breakdown and using a
 Undertook independent research, showcasing initiative and interest in further product development
 
 
-### Yandex Tech | iOS Developer (Fintech, Yandex Market) 2023.09 -
+### Yandex Tech | iOS Developer (Fintech, Yandex Market) 2023.09 - 2025.01
+
+### Yandex Tech | iOS Developer (Shop centric experience, Yandex Market) 2025.01 - 
 
 #### Contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/teddyzxcv)
